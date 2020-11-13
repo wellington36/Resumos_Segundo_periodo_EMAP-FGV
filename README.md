@@ -1,4 +1,4 @@
-# Resumos segunda parte do perioído 2
+# Resumos segunda parte do período 2
 
 - Análise Real
 - Calúlo em várias variáveis
